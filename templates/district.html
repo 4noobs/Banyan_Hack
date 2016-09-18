@@ -1,0 +1,31 @@
+
+{% extends "layout.html" %}
+{% block content %}
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+   
+  </head>
+  <body>
+    
+      <form action="chart" method="POST" enctype="multipart/form-data">
+        
+          <div class="input-field col s9 m6">
+                                
+                                <select  name='chart'>
+                                   <option value='logparse'>Select state</option>
+                                   {% for item in states %}
+                                   <option value="{{item}}">{{item}}</option>
+                                   
+                                  {% endfor %}
+                                </select>
+            </div>
+            <input class="btn" type="submit" name="my-form" value="Send">
+        
+      </form>
+
+  </body>
+</html>
+{% endblock %}
+ 

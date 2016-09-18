@@ -1,0 +1,122 @@
+[
+  {
+    "Fold Number": 0,
+    "Number of Examples in fold": 16011,
+    "Model": "FastTree (Boosted Trees) Regression",
+    "Mean Absolute Error": 2.233808,
+    "Root Mean Squared Error": 19.981016,
+    "Relative Absolute Error": 0.255852,
+    "Relative Squared Error": 0.023029,
+    "Coefficient of Determination": 0.976971
+  },
+  {
+    "Fold Number": 1,
+    "Number of Examples in fold": 16011,
+    "Model": "FastTree (Boosted Trees) Regression",
+    "Mean Absolute Error": 2.930973,
+    "Root Mean Squared Error": 49.887558,
+    "Relative Absolute Error": 0.234339,
+    "Relative Squared Error": 0.060879,
+    "Coefficient of Determination": 0.939121
+  },
+  {
+    "Fold Number": 2,
+    "Number of Examples in fold": 16011,
+    "Model": "FastTree (Boosted Trees) Regression",
+    "Mean Absolute Error": 2.098612,
+    "Root Mean Squared Error": 30.760215,
+    "Relative Absolute Error": 0.256541,
+    "Relative Squared Error": 0.062615,
+    "Coefficient of Determination": 0.937385
+  },
+  {
+    "Fold Number": 3,
+    "Number of Examples in fold": 16011,
+    "Model": "FastTree (Boosted Trees) Regression",
+    "Mean Absolute Error": 2.634351,
+    "Root Mean Squared Error": 31.823989,
+    "Relative Absolute Error": 0.243798,
+    "Relative Squared Error": 0.032433,
+    "Coefficient of Determination": 0.967567
+  },
+  {
+    "Fold Number": 4,
+    "Number of Examples in fold": 16011,
+    "Model": "FastTree (Boosted Trees) Regression",
+    "Mean Absolute Error": 2.206977,
+    "Root Mean Squared Error": 32.018608,
+    "Relative Absolute Error": 0.275339,
+    "Relative Squared Error": 0.075069,
+    "Coefficient of Determination": 0.924931
+  },
+  {
+    "Fold Number": 5,
+    "Number of Examples in fold": 16011,
+    "Model": "FastTree (Boosted Trees) Regression",
+    "Mean Absolute Error": 2.396717,
+    "Root Mean Squared Error": 70.163087,
+    "Relative Absolute Error": 0.274413,
+    "Relative Squared Error": 0.257211,
+    "Coefficient of Determination": 0.742789
+  },
+  {
+    "Fold Number": 6,
+    "Number of Examples in fold": 16011,
+    "Model": "FastTree (Boosted Trees) Regression",
+    "Mean Absolute Error": 2.600105,
+    "Root Mean Squared Error": 46.379487,
+    "Relative Absolute Error": 0.270939,
+    "Relative Squared Error": 0.09229,
+    "Coefficient of Determination": 0.90771
+  },
+  {
+    "Fold Number": 7,
+    "Number of Examples in fold": 16012,
+    "Model": "FastTree (Boosted Trees) Regression",
+    "Mean Absolute Error": 3.143203,
+    "Root Mean Squared Error": 100.430819,
+    "Relative Absolute Error": 0.301353,
+    "Relative Squared Error": 0.311853,
+    "Coefficient of Determination": 0.688147
+  },
+  {
+    "Fold Number": 8,
+    "Number of Examples in fold": 16011,
+    "Model": "FastTree (Boosted Trees) Regression",
+    "Mean Absolute Error": 2.126789,
+    "Root Mean Squared Error": 20.992699,
+    "Relative Absolute Error": 0.338598,
+    "Relative Squared Error": 0.11795,
+    "Coefficient of Determination": 0.88205
+  },
+  {
+    "Fold Number": 9,
+    "Number of Examples in fold": 16011,
+    "Model": "FastTree (Boosted Trees) Regression",
+    "Mean Absolute Error": 2.687927,
+    "Root Mean Squared Error": 67.992172,
+    "Relative Absolute Error": 0.284883,
+    "Relative Squared Error": 0.1837,
+    "Coefficient of Determination": 0.8163
+  },
+  {
+    "Fold Number": "Mean",
+    "Number of Examples in fold": 160111,
+    "Model": "FastTree (Boosted Trees) Regression",
+    "Mean Absolute Error": 2.505946,
+    "Root Mean Squared Error": 47.042965,
+    "Relative Absolute Error": 0.273605,
+    "Relative Squared Error": 0.121703,
+    "Coefficient of Determination": 0.878297
+  },
+  {
+    "Fold Number": "Standard Deviation",
+    "Number of Examples in fold": 160111,
+    "Model": "FastTree (Boosted Trees) Regression",
+    "Mean Absolute Error": 0.35438,
+    "Root Mean Squared Error": 25.745865,
+    "Relative Absolute Error": 0.030127,
+    "Relative Squared Error": 0.097931,
+    "Coefficient of Determination": 0.097931
+  }
+]

@@ -22,7 +22,20 @@ console.log("drawing");
 google.setOnLoadCallback(drawBasic);
 console.log("drawing1");
 
-var json = {{res|safe}} 
+var json = [
+  
+    ["Fold Number", 0],
+    ["Number of Examples in fold",16011],
+    ["Model", "FastTree (Boosted Trees) Regression"],
+    ["Mean Absolute Error",2.233808],
+    ["Root Mean Squared Error", 19.981016],
+    ["Relative Absolute Error", 0.255852],
+    ["Relative Squared Error",0.023029],
+    ["Coefficient of Determination",0.976971]
+  
+  
+]
+
 function drawBasic() {
     //var json_table = new google.visualization.BarChart(document.getElementById('chart_div'));
   var json_data = new google.visualization.arrayToDataTable((json), 0.6);
